@@ -1,0 +1,27 @@
+{
+  "name": "country-names",
+  "version": "1.0.0",
+  "description": "Get random country names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavinRobosoft/country-names.git"
+  },
+  "keywords": [
+    "Random",
+    "country",
+    "name"
+  ],
+  "author": "'kavinRobosoft' <'kavin.s@robosoftin.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kavinRobosoft/country-names/issues"
+  },
+  "homepage": "https://github.com/kavinRobosoft/country-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
