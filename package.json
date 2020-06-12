@@ -1,5 +1,5 @@
 {
-  "name": "country-names",
+  "name": "random-country-names",
   "version": "1.0.0",
   "description": "Get random country names",
   "main": "src/index.js",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/kavinRobosoft/country-names#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
-  }
+  },
+  "devDependencies": {}
 }
